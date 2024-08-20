@@ -1,0 +1,13 @@
+{
+  "name": "assignment-oops",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Script.js",
+  "scripts": {
+    "start": "node ./hospital/Main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
